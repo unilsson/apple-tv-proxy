@@ -122,3 +122,10 @@ targets:
 ```
 
 Alias matchas utan hänsyn till stora/små bokstäver.
+
+## Violentmonkey userscript
+
+Repot innehåller även ett userscript för Firefox/Violentmonkey:
+
+```text
+userscripts/youtube-to-apple-tv.user.js
