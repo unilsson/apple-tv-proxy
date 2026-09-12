@@ -1,0 +1,5 @@
+default: Kök
+
+targets:
+  Kök: media_player.koket_apple_tv
+  Vardagsrummet: media_player.vardagsrummet_2
